@@ -1,6 +1,6 @@
 body{
     background-image: linear-gradient(rgb(64, 64, 94),rgb(34, 33, 33), black);
-    height: 2500px;
+    height: 4000px;
 }
 #logo{
     height: 50px;
@@ -31,8 +31,22 @@ body{
 
 }
 .textcard1{
-    margin-top: 200px;
+    margin-top: 150px;
     border: 1px solid white;
     height: 500px;
 
+}
+.textcard2{
+    margin-top: 100px;
+    border: 1px solid white;
+    height: 700px;
+
+}
+.minitextcard{
+    border: 1px solid white;
+    height: 160px;
+}
+.textcard3{
+    border: 1px solid white;
+    height: 540px;
 }
