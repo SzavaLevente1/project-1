@@ -1,0 +1,38 @@
+body{
+    background-image: linear-gradient(rgb(64, 64, 94),rgb(34, 33, 33), black);
+    height: 2500px;
+}
+#logo{
+    height: 50px;
+}
+.gomb{
+    color: white;
+}
+.gomb:hover{
+    color:rgb(35, 204, 204);
+}
+.navbar{
+    overflow: hidden;
+    top: 0;
+    width: 100%;
+}
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+#navwhite{
+    background-color: rgb(20, 18, 18);
+}
+.textcard{
+    margin-top: 100px;
+    border: 1px solid white;
+    height: 500px;
+
+}
+.textcard1{
+    margin-top: 200px;
+    border: 1px solid white;
+    height: 500px;
+
+}
