@@ -45,13 +45,18 @@ body{
 .minitextcard{
     border: 1px solid white;
     height: 160px;
+    flex-grow: 1;
 }
 .textcard3{
     border: 1px solid white;
     height: 540px;
+    flex-grow: 1;
 }
 .textcard4{
     margin-top: 100px;
     border: 1px solid white;
     height: 600px;
+}
+.alkalmazott{
+    text-align: right;
 }
