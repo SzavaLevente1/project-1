@@ -60,8 +60,19 @@ body{
 .textcard5{
     margin-top: 100px;
     border: 1px solid white;
-    height: 10000px;
+    height: 10000px
+}    
+.textcard6{
+    
+    border: 1px solid white;
+    height: 100px;
 }
+.textcard7{
+    
+    border: 1px solid white;
+    height: 400px;
+}    
+
 .alkalmazott{
     text-align: right;
     
