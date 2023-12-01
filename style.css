@@ -69,7 +69,12 @@ body{
 }
 .textcard7{
     height: 400px;
-}    
+} 
+.textcard8{
+    margin-top: 100px;
+    border: 1px solid white;
+    height: 500px;
+}   
 
 .alkalmazott{
     text-align: right;
@@ -188,7 +193,4 @@ ul{
 }
 .media:hover{
     color: white;
-}
-.rolunk{
-    font-size: 20pt;
 }
