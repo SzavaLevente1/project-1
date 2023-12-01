@@ -22,7 +22,7 @@ body{
     width: 100%;
 }
 .navwhite{
-    background-color: rgba(0, 0, 0, 0.808);
+    background-color: rgb(15, 13, 13)
 }
 .textcard{
     margin-top: 100px;
@@ -138,6 +138,7 @@ form {
   }
 .hirlevel{
     color: white;
+    font-size: 20pt;
 }
 a{
     text-decoration: none;
@@ -147,5 +148,17 @@ a:hover{
     color: rgb(0, 195, 255);
 }
 .informacio{
-
+      font-size: 19pt;
+      color: white;
+}
+.alogo{
+    font-size: 20pt;
+    color: white;
+}
+.ceginfo{
+    font-size: 19pt;
+    color: white;
+}
+ul{
+    list-style-type: none;
 }  
