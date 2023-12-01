@@ -9,7 +9,7 @@ body{
     color: white;
 }
 .gomb:hover{
-    color:rgb(26, 176, 196);
+    color:rgb(0, 195, 255)
 }
 .navbar{
     overflow: hidden;
@@ -22,7 +22,7 @@ body{
     width: 100%;
 }
 .navwhite{
-    background-color: rgb(20, 18, 18);
+    background-color: rgba(0, 0, 0, 0.808);
 }
 .textcard{
     margin-top: 100px;
@@ -81,11 +81,6 @@ body{
 .rolunk{
     color: white;
 }
-@keyframes color-change{
-    0% { color: red; }
-    50% { color: blue; }
-    100% { color: red; }
-} 
 .kep{
     margin-top: 100px;
     height: 500px;
@@ -144,4 +139,13 @@ form {
 .hirlevel{
     color: white;
 }
-  
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: rgb(0, 195, 255);
+}
+.informacio{
+
+}  
