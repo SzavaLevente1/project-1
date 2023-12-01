@@ -154,6 +154,7 @@ a:hover{
 .alogo{
     font-size: 20pt;
     color: white;
+    list-style-type: "💻";
 }
 .ceginfo{
     font-size: 19pt;
@@ -161,4 +162,10 @@ a:hover{
 }
 ul{
     list-style-type: none;
-}  
+}
+.social{
+    color: white;
+}
+.e-mail{
+    color: whitesmoke;
+} 
