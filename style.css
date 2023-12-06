@@ -29,6 +29,34 @@ body{
     margin-top: 100px;
     border: 1px solid white;
     height: 500px;
+    text-align: center;
+    line-height: 450px;
+    color: white;
+    font-size: 25pt;
+}    
+.textcarda{
+    margin-top: 100px;
+    border: 1px solid white;
+    height: 500px;
+    text-align: center;
+    
+    color: white;
+    font-size: 12pt;
+}    
+.textcardm{
+    margin-top: 100px;
+    border: 1px solid white;
+    height: 500px;
+    text-align: center;
+    color: white;
+    font-size: 12pt;
+}    
+.textcardf{
+    margin-top: 100px;
+    height: 500px;
+    line-height: 450px;
+    color: white;
+    font-size: 75pt;
 
 }
 .textcard1{
@@ -72,9 +100,23 @@ body{
 } 
 .textcard8{
     margin-top: 100px;
+    margin-bottom: 100px;
+    border-bottom: 1px solid white;
+    height: 300px;
+    font-size: 15pt;
+    
+    
+}   
+.textcard9{
+    margin-top: 100px;
     border: 1px solid white;
     height: 500px;
-}   
+    text-align: center;
+    line-height: 420px;
+    color: white;
+    font-size: 25pt;
+    
+}
 
 .alkalmazott{
     text-align: right;
@@ -84,10 +126,48 @@ body{
 .rolunk{
     color: white;
 }
-.kep{
+.akep{
+    margin-right: 110px;
     margin-top: 100px;
     height: 500px;
 }
+.mkep{
+    margin-right: 110px;
+    margin-top: 100px;
+    height: 500px;
+}
+.mkep2{
+    
+    margin-top: 100px;
+    height: 500px;
+}    
+
+
+   
+.kezdokep2{
+position: relative left;
+margin-right:  200px;
+}    
+
+
+  
+  
+.teaml{
+    float: left;
+    width: 50%;
+    padding: 5px;
+}    
+.teamr{
+    float: right;
+    width: 50%;
+    padding: 5px;
+}    
+.front_p{
+    float: right;
+    height: 500px;
+    width: 50%;
+}    
+
 h1{
     text-align: center;
 }
@@ -193,4 +273,32 @@ ul{
 }
 .media:hover{
     color: white;
+}
+.foszoveg{
+    font-size: 50pt;
+    animation: gradientText 5s ease-in-out infinite;
+      }
+      @keyframes gradientText  {
+        0% {
+         color: rgba(0, 0, 0, 1);
+        }
+        25% {
+          color: rgb(0, 195, 255)
+        }
+        25% {
+          color: rgba(0, 0, 0, 1);
+        }
+        25% {
+          color: rgb(0, 195, 255)
+        }
+      }
+
+.bio{
+    font-size:25pt;
+}  
+button{
+    color: white;
+}    
+.kezdosz{
+    font-size: 40pt;
 }
