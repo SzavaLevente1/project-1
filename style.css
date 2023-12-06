@@ -27,7 +27,7 @@ body{
 }
 .textcard{
     margin-top: 100px;
-    border: 1px solid white;
+    
     height: 500px;
     text-align: center;
     line-height: 450px;
@@ -36,7 +36,7 @@ body{
 }    
 .textcarda{
     margin-top: 100px;
-    border: 1px solid white;
+   
     height: 500px;
     text-align: center;
     
@@ -45,7 +45,7 @@ body{
 }    
 .textcardm{
     margin-top: 100px;
-    border: 1px solid white;
+   
     height: 500px;
     text-align: center;
     color: white;
@@ -61,23 +61,23 @@ body{
 }
 .textcard1{
     margin-top: 150px;
-    border: 1px solid white;
+   
     height: 500px;
 
 }
 .textcard2{
     margin-top: 100px;
-    border: 1px solid white;
+
     height: 700px;
 
 }
 .minitextcard{
-    border: 1px solid white;
+
     height: 160px;
     flex-grow: 1;
 }
 .textcard3{
-    border: 1px solid white;
+
     height: 540px;
     flex-grow: 1;
 }
@@ -88,7 +88,7 @@ body{
 }
 .textcard5{
     margin-top: 100px;
-    border: 1px solid white;
+  
     height: 10000px
 }    
 .textcard6{
@@ -101,15 +101,14 @@ body{
 .textcard8{
     margin-top: 100px;
     margin-bottom: 100px;
-    border-bottom: 1px solid white;
+    padding: 25px;
     height: 300px;
-    font-size: 15pt;
-    
+    font-size: 21pt;
+    position: relative;
     
 }   
 .textcard9{
     margin-top: 100px;
-    border: 1px solid white;
     height: 500px;
     text-align: center;
     line-height: 420px;
@@ -156,11 +155,13 @@ margin-right:  200px;
     float: left;
     width: 50%;
     padding: 5px;
+
 }    
 .teamr{
     float: right;
     width: 50%;
     padding: 5px;
+
 }    
 .front_p{
     float: right;
@@ -172,7 +173,10 @@ h1{
     text-align: center;
 }
 .bio{
-    text-align: left;
+     padding: 80px;
+
+    
+
 }
 * {
 	border: 0;
